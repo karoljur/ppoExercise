@@ -1,0 +1,9 @@
+C:\Users\kroll\source\repos\zadanie1\zadanie1\obj\Debug\zadanie1.csprojAssemblyReference.cache
+C:\Users\kroll\source\repos\zadanie1\zadanie1\obj\Debug\MainWindow.baml
+C:\Users\kroll\source\repos\zadanie1\zadanie1\obj\Debug\AddPeople.baml
+C:\Users\kroll\source\repos\zadanie1\zadanie1\obj\Debug\MainWindow.g.cs
+C:\Users\kroll\source\repos\zadanie1\zadanie1\obj\Debug\AddPeople.g.cs
+C:\Users\kroll\source\repos\zadanie1\zadanie1\obj\Debug\AddFamily.g.cs
+C:\Users\kroll\source\repos\zadanie1\zadanie1\obj\Debug\App.g.cs
+C:\Users\kroll\source\repos\zadanie1\zadanie1\obj\Debug\zadanie1_MarkupCompile.cache
+C:\Users\kroll\source\repos\zadanie1\zadanie1\obj\Debug\zadanie1_MarkupCompile.lref
